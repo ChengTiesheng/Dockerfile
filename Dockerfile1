@@ -1,0 +1,5 @@
+FROM scratch
+
+MAINTAINER chengtiesheng
+
+EXPOSE 8080
